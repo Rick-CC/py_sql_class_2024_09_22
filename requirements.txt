@@ -1,0 +1,9 @@
+psycopg2-binary
+streamlit
+numpy
+pandas
+pandas-data reader
+Pyarrow
+yfinance
+matplotlib
+python-dotenv
