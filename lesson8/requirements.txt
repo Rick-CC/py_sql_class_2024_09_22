@@ -2,7 +2,7 @@ psycopg2-binary
 streamlit
 numpy
 pandas
-pandas-data reader
+pandas-datareader
 Pyarrow
 yfinance
 matplotlib
